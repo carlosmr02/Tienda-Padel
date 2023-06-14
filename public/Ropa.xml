@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto>
+        <imagen>https://www.bullpadel.com/9411-home_default/traje-bullpadel-acamo-blancoazul-marino.jpg</imagen>
+        <modelo>CONJUNTO BULLPADEL ACAMO BLANCO/AZUL MARINO</modelo>
+        <precio>129,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9951-home_default/anorack-bullpadel-linio-negro.jpg</imagen>
+        <modelo>ANORAK BULLPADEL LINIO NEGRO</modelo>
+        <precio>125,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9793-home_default/anorack-bullpadel-olete-paprica.jpg</imagen>
+        <modelo>ANORAK BULLPADEL OLETE PAPRICA</modelo>
+        <precio>92,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9955-home_default/chaleco-bullpadel-litre-negro.jpg</imagen>
+        <modelo>CHALECO BULLPADEL LITRE NEGRO</modelo>
+        <precio>80,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9709-home_default/short-bullpadel-ovalo-paprica.jpg</imagen>
+        <modelo>SHORT BULLPADEL OVALO PAPRICA</modelo>
+        <precio>70,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9705-home_default/short-bullpadel-ovalo-negro.jpg</imagen>
+        <modelo>SHORT BULLPADEL OVALO NEGRO</modelo>
+        <precio>70,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9925-home_default/sudadera-bullpadel-lumen-negro.jpg</imagen>
+        <modelo>SUDADERA BULLPADEL LUMEN NEGRO</modelo>
+        <precio>67,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9934-home_default/sudadera-bullpadel-lumen-limon.jpg</imagen>
+        <modelo>SUDADERA BULLPADEL LUMEN LIMON</modelo>
+        <precio>67,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/10126-home_default/sudadera-bullpadel-lardo-m-negro.jpg</imagen>
+        <modelo>SUDADERA BULLPADEL LARDO NEGRO</modelo>
+        <precio>64,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9942-home_default/sudadera-bullpadel-lardo-m-151---s.jpg</imagen>
+        <modelo>SUDADERA BULLPADEL LARDO GRIS</modelo>
+        <precio>64,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9938-home_default/sudadera-bullpadel-lardo-m-limon.jpg</imagen>
+        <modelo>SUDADERA BULLPADEL LARDO LIMON</modelo>
+        <precio>64,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9909-home_default/zapatilla-bullpadel-comfort-pro-23v-verde.jpg</imagen>
+        <modelo>ZAPATILLA BULLPADEL COMFORT PRO 23V VERDE</modelo>
+        <precio>144,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9897-home_default/zapatilla-bullpadel-vertex-vibram-23v-coral.jpg</imagen>
+        <modelo>ZAPATILLA BULLPADEL VERTEX VIBRAM 23V CORAL</modelo>
+        <precio>169,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9875-home_default/zapatilla-bullpadel-hack-vibram-23v-negro.jpg</imagen>
+        <modelo>ZAPATILLA BULLPADEL HACK VIBRAM 23V NEGRO</modelo>
+        <precio>169,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9894-home_default/zapatilla-bullpadel-vertex-vibram-23v-negro.jpg</imagen>
+        <modelo>ZAPATILLA BULLPADEL VERTEX VIBRAM 23V NEGRO</modelo>
+        <precio>169,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9882-home_default/zapatilla-bullpadel-hack-vibram-23v-blanco.jpg</imagen>
+        <modelo>ZAPATILLA BULLPADEL HACK VIBRAM 23V BLANCO</modelo>
+        <precio>169,95 €</precio>
+    </producto>
+</tienda>

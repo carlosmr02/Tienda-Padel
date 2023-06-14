@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/575699/1/400x400/head-padel-pro--3-ball-single-can.jpg</imagen>
+        <modelo>HEAD PADEL PRO – 3 Ball - Single Can</modelo>
+        <precio>8,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/575698/1/400x400/3-ball-head-padel-team-single-can.jpg</imagen>
+        <modelo>3 Ball HEAD PADEL TEAM - Single Can</modelo>
+        <precio>6,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/575697/1/400x400/3-ball-head-padel-pro-s-single-can.jpg</imagen>
+        <modelo>3 Ball HEAD PADEL PRO - S - Single Can</modelo>
+        <precio>8,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/811904_BKW/1/400x400/socks-tennis-3p-performance-bkw.jpg</imagen>
+        <modelo>SOCKS TENNIS 3P PERFORMANCE</modelo>
+        <precio>15,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/811934_WHB/1/400x400/socks-tennis-3p-sneaker-whb.jpg</imagen>
+        <modelo>SOCKS TENNIS 3P SNEAKER</modelo>
+        <precio>11,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/811509_WH/1/400x400/socks-tennis-2p-stripe-quarter-white.jpg</imagen>
+        <modelo>SOCKS TENNIS 2P STRIPE QUARTER</modelo>
+        <precio>15,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/287019_WH/1/400x400/performance-cap-white.jpg</imagen>
+        <modelo>HEAD Performance Gorra</modelo>
+        <precio>20,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://cdn-mdb.head.com/CDN3/G/287003/1/400x400/light-function-cap-anwh.jpg</imagen>
+        <modelo>HEAD Light Function Gorra</modelo>
+        <precio>19,00 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/5215-home_default/protector-de-marco-bulpadel-frame-box-50-uds.jpg</imagen>
+        <modelo>Protector de Marco Bulpádel FRAME BOX 50 uds</modelo>
+        <precio>99,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/9460-home_default/overgrips-bullpadel-gb-1604-box.jpg</imagen>
+        <modelo>Overgrips Bullpadel GB-1604 box 50</modelo>
+        <precio>46,69 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/5202-home_default/overgrips-bullpadel-gb-1603.jpg</imagen>
+        <modelo>Overgrips Bullpadel GB-1603 Blanco</modelo>
+        <precio>10,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/5196-home_default/overgrips-bullpadel-gb-1200.jpg</imagen>
+        <modelo>Overgrips Bullpadel GB-1200 amarillo fluor</modelo>
+        <precio>7,50 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/5192-home_default/pelotas-bullpadel-gold.jpg</imagen>
+        <modelo>Pelotas Bullpadel GOLD</modelo>
+        <precio>5,95 €</precio>
+    </producto>
+    <producto>
+        <imagen>https://www.bullpadel.com/7468-home_default/bolas-bote-bullpadel-bp-fip-next.jpg</imagen>
+        <modelo>BOTE BOLAS BULLPADEL BP FIP NEXT</modelo>
+        <precio>5,50 €</precio>
+    </producto>
+</tienda>
